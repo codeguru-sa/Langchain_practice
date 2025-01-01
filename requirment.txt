@@ -1,0 +1,11 @@
+ipykernel
+langchain-community
+langchain-ollama
+pypdf
+bs4
+langchain-text-splitters
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+streamlit
